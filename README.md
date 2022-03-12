@@ -1,6 +1,9 @@
 # pandas-homework
 week 4 UofT Fintech
 
+## File
+stock_analysis.ipynb
+
 ## Tasks
 
 1. Prepare the Data
